@@ -1,0 +1,1106 @@
+From,To,weight
+Frodo,Elrond,28
+Frodo,Gandalf,47
+Frodo,Saruman,21
+Frodo,Theoden,10
+Frodo,Sauron,29
+Elrond,Gandalf,32
+Elrond,Saruman,15
+Elrond,Theoden,10
+Elrond,Sauron,22
+Gandalf,Saruman,28
+Gandalf,Theoden,18
+Gandalf,Sauron,30
+Saruman,Theoden,15
+Saruman,Sauron,18
+Theoden,Sauron,10
+Frodo,Bilbo,37
+Meriadoc Brandybuck,Meriadoc Brandybuck,1
+Aragorn,Arwen,7
+Aragorn,Bilbo,21
+Aragorn,Celeborn,6
+Aragorn,Faramir,11
+Aragorn,Galadriel,17
+Aragorn,Sam,28
+Aragorn,Gollum,12
+Aragorn,Sauron,26
+Arwen,Bilbo,5
+Arwen,Celeborn,4
+Arwen,Faramir,3
+Arwen,Galadriel,4
+Arwen,Sam,5
+Arwen,Gollum,1
+Arwen,Sauron,4
+Frodo,Celeborn,7
+Frodo,Faramir,16
+Frodo,Galadriel,19
+Frodo,Sam,48
+Frodo,Gollum,22
+Bilbo,Celeborn,5
+Bilbo,Faramir,8
+Bilbo,Galadriel,13
+Bilbo,Sam,33
+Bilbo,Gollum,14
+Bilbo,Sauron,19
+Celeborn,Faramir,3
+Celeborn,Galadriel,7
+Celeborn,Sam,6
+Celeborn,Gollum,1
+Celeborn,Sauron,6
+Elrond,Faramir,10
+Elrond,Galadriel,15
+Elrond,Sam,26
+Elrond,Gollum,10
+Faramir,Galadriel,10
+Faramir,Sam,13
+Faramir,Gollum,12
+Faramir,Sauron,11
+Galadriel,Sam,18
+Galadriel,Gollum,9
+Galadriel,Sauron,16
+Sam,Gollum,20
+Sam,Sauron,27
+Gandalf,Gollum,16
+Gollum,Sauron,15
+Frodo,Melilot Brandybuck,1
+Frodo,Noakes,1
+Frodo,Odo Proudfoot,1
+Frodo,Sancho Proudfoot,1
+Frodo,Everard Took,1
+Frodo,Daddy Twofoot,1
+Bilbo,Melilot Brandybuck,1
+Bilbo,Noakes,1
+Bilbo,Odo Proudfoot,1
+Bilbo,Sancho Proudfoot,1
+Bilbo,Everard Took,1
+Bilbo,Daddy Twofoot,1
+Melilot Brandybuck,Noakes,1
+Melilot Brandybuck,Odo Proudfoot,1
+Melilot Brandybuck,Sancho Proudfoot,1
+Melilot Brandybuck,Everard Took,1
+Melilot Brandybuck,Daddy Twofoot,1
+Sam,Noakes,1
+Sam,Odo Proudfoot,1
+Sam,Sancho Proudfoot,1
+Sam,Everard Took,1
+Sam,Daddy Twofoot,1
+Gandalf,Noakes,1
+Gandalf,Odo Proudfoot,1
+Gandalf,Sancho Proudfoot,1
+Gandalf,Everard Took,1
+Gandalf,Daddy Twofoot,1
+Gollum,Noakes,1
+Gollum,Odo Proudfoot,1
+Gollum,Sancho Proudfoot,1
+Gollum,Everard Took,1
+Gollum,Daddy Twofoot,1
+Noakes,Odo Proudfoot,1
+Noakes,Sancho Proudfoot,1
+Noakes,Everard Took,1
+Noakes,Daddy Twofoot,1
+Odo Proudfoot,Sancho Proudfoot,1
+Odo Proudfoot,Everard Took,1
+Odo Proudfoot,Daddy Twofoot,1
+Sancho Proudfoot,Everard Took,1
+Sancho Proudfoot,Daddy Twofoot,1
+Everard Took,Daddy Twofoot,1
+Aragorn,Folco Boffin,1
+Aragorn,Fredegar Bolger,1
+Aragorn,Ted Sandyman,3
+Aragorn,Peregrin Took,5
+Frodo,Folco Boffin,2
+Frodo,Fredegar Bolger,3
+Frodo,Ted Sandyman,4
+Frodo,Peregrin Took,6
+Bilbo,Folco Boffin,2
+Bilbo,Fredegar Bolger,3
+Bilbo,Ted Sandyman,4
+Bilbo,Peregrin Took,6
+Folco Boffin,Fredegar Bolger,2
+Folco Boffin,Ted Sandyman,1
+Folco Boffin,Peregrin Took,1
+Folco Boffin,Sauron,1
+Fredegar Bolger,Ted Sandyman,1
+Fredegar Bolger,Peregrin Took,1
+Fredegar Bolger,Sauron,1
+Sam,Ted Sandyman,4
+Sam,Peregrin Took,7
+Gandalf,Ted Sandyman,4
+Gandalf,Peregrin Took,7
+Gollum,Ted Sandyman,1
+Gollum,Peregrin Took,2
+Ted Sandyman,Peregrin Took,1
+Ted Sandyman,Sauron,2
+Saruman,Peregrin Took,6
+Peregrin Took,Sauron,5
+Frodo,Gildor Inglorion,1
+Bilbo,Gildor Inglorion,1
+Folco Boffin,Gildor Inglorion,1
+Fredegar Bolger,Gildor Inglorion,1
+Elrond,Gildor Inglorion,1
+Sam,Gildor Inglorion,1
+Gandalf,Gildor Inglorion,1
+Frodo,Maggot,4
+Bilbo,Maggot,4
+Sam,Maggot,3
+Gandalf,Maggot,4
+Frodo,Tom Bombadil,6
+Frodo,Goldberry,3
+Frodo,Willow,2
+Tom Bombadil,Goldberry,3
+Tom Bombadil,Willow,2
+Sam,Goldberry,3
+Sam,Willow,2
+Gandalf,Goldberry,3
+Gandalf,Willow,2
+Goldberry,Willow,2
+Bilbo,Willow,1
+Tom Bombadil,Maggot,1
+Goldberry,Maggot,1
+Maggot,Willow,1
+Frodo,Bob,3
+Frodo,Barliman Butterbur,1
+Frodo,Nob,6
+Frodo,Will Whitfoot,3
+Bilbo,Bob,2
+Bilbo,Barliman Butterbur,1
+Bilbo,Nob,5
+Bilbo,Will Whitfoot,3
+Bob,Barliman Butterbur,1
+Bob,Nob,3
+Bob,Will Whitfoot,1
+Tom Bombadil,Barliman Butterbur,1
+Tom Bombadil,Nob,3
+Tom Bombadil,Will Whitfoot,1
+Barliman Butterbur,Nob,1
+Barliman Butterbur,Will Whitfoot,1
+Sam,Nob,6
+Sam,Will Whitfoot,3
+Gandalf,Nob,5
+Gandalf,Will Whitfoot,3
+Nob,Will Whitfoot,1
+Aragorn,Bill Ferny,3
+Frodo,Bill Ferny,6
+Bilbo,Bill Ferny,5
+Elrond,Bill Ferny,4
+Bob,Bill Ferny,2
+Bob,Sauron,1
+Tom Bombadil,Bill Ferny,1
+Tom Bombadil,Sauron,2
+Bill Ferny,Sauron,2
+Nob,Sauron,3
+Aragorn,Asfaloth,1
+Aragorn,Glorfindel,5
+Asfaloth,Glorfindel,1
+Asfaloth,Sauron,1
+Frodo,Glorfindel,5
+Bilbo,Glorfindel,5
+Elrond,Glorfindel,5
+Bill Ferny,Glorfindel,2
+Sam,Glorfindel,4
+Gandalf,Glorfindel,5
+Glorfindel,Sauron,4
+Aragorn,Beorn,4
+Aragorn,Dain,4
+Aragorn,Elladan and Elrohir,4
+Aragorn,Grimbeorn,1
+Aragorn,Lindir,1
+Arwen,Beorn,2
+Arwen,Dain,2
+Arwen,Elladan and Elrohir,2
+Arwen,Grimbeorn,1
+Arwen,Lindir,1
+Frodo,Beorn,4
+Frodo,Dain,4
+Frodo,Elladan and Elrohir,2
+Frodo,Grimbeorn,1
+Frodo,Lindir,1
+Beorn,Dain,1
+Beorn,Elladan and Elrohir,1
+Beorn,Grimbeorn,1
+Beorn,Lindir,1
+Bilbo,Dain,4
+Bilbo,Elladan and Elrohir,2
+Bilbo,Grimbeorn,1
+Bilbo,Lindir,1
+Dain,Elladan and Elrohir,1
+Dain,Grimbeorn,1
+Dain,Lindir,1
+Elladan and Elrohir,Grimbeorn,1
+Elladan and Elrohir,Lindir,1
+Elrond,Grimbeorn,1
+Elrond,Lindir,1
+Bill Ferny,Grimbeorn,1
+Bill Ferny,Lindir,1
+Sam,Grimbeorn,1
+Sam,Lindir,1
+Gandalf,Grimbeorn,1
+Gandalf,Lindir,1
+Glorfindel,Grimbeorn,1
+Glorfindel,Lindir,1
+Grimbeorn,Lindir,1
+Aragorn,Boromir,19
+Aragorn,Cirdan,1
+Aragorn,Denethor,15
+Aragorn,Erestor,2
+Aragorn,Galdor,1
+Aragorn,Gimli,27
+Aragorn,Gwaihir,4
+Aragorn,Hurin,3
+Aragorn,Legolas,25
+Aragorn,Radagast,2
+Aragorn,Thranduil,3
+Frodo,Boromir,19
+Frodo,Cirdan,1
+Frodo,Denethor,11
+Frodo,Erestor,2
+Frodo,Galdor,1
+Frodo,Gimli,19
+Frodo,Gwaihir,4
+Frodo,Hurin,2
+Frodo,Legolas,18
+Frodo,Radagast,2
+Frodo,Thranduil,3
+Bilbo,Boromir,10
+Bilbo,Cirdan,1
+Bilbo,Denethor,5
+Bilbo,Erestor,2
+Bilbo,Galdor,1
+Bilbo,Gimli,13
+Bilbo,Gwaihir,3
+Bilbo,Hurin,2
+Bilbo,Legolas,12
+Bilbo,Radagast,2
+Bilbo,Thranduil,3
+Boromir,Cirdan,1
+Boromir,Denethor,11
+Boromir,Erestor,1
+Boromir,Galdor,1
+Boromir,Gimli,16
+Boromir,Gwaihir,3
+Boromir,Hurin,1
+Boromir,Legolas,15
+Boromir,Radagast,2
+Boromir,Thranduil,3
+Boromir,Sauron,13
+Cirdan,Denethor,1
+Cirdan,Erestor,1
+Cirdan,Galdor,1
+Cirdan,Gimli,1
+Cirdan,Gwaihir,1
+Cirdan,Hurin,1
+Cirdan,Legolas,1
+Cirdan,Radagast,1
+Cirdan,Thranduil,1
+Cirdan,Sauron,1
+Denethor,Erestor,1
+Denethor,Galdor,1
+Denethor,Gimli,10
+Denethor,Gwaihir,1
+Denethor,Hurin,1
+Denethor,Legolas,8
+Denethor,Radagast,1
+Denethor,Thranduil,1
+Denethor,Sauron,11
+Dain,Erestor,1
+Dain,Galdor,1
+Dain,Gimli,3
+Dain,Gwaihir,1
+Dain,Hurin,1
+Dain,Legolas,3
+Dain,Radagast,1
+Dain,Thranduil,1
+Dain,Sauron,2
+Elrond,Erestor,2
+Elrond,Galdor,1
+Elrond,Gimli,18
+Elrond,Gwaihir,3
+Elrond,Hurin,3
+Elrond,Legolas,16
+Elrond,Radagast,2
+Elrond,Thranduil,3
+Erestor,Galdor,1
+Erestor,Gimli,2
+Erestor,Gwaihir,1
+Erestor,Hurin,2
+Erestor,Legolas,2
+Erestor,Radagast,1
+Erestor,Thranduil,1
+Erestor,Sauron,2
+Galdor,Gimli,1
+Galdor,Gwaihir,1
+Galdor,Hurin,1
+Galdor,Legolas,1
+Galdor,Radagast,1
+Galdor,Thranduil,1
+Galdor,Sauron,1
+Sam,Gimli,19
+Sam,Gwaihir,4
+Sam,Hurin,1
+Sam,Legolas,17
+Sam,Radagast,2
+Sam,Thranduil,3
+Gandalf,Gimli,27
+Gandalf,Gwaihir,4
+Gandalf,Hurin,3
+Gandalf,Legolas,25
+Gandalf,Radagast,2
+Gandalf,Thranduil,3
+Gimli,Gwaihir,4
+Gimli,Hurin,3
+Gimli,Legolas,25
+Gimli,Radagast,2
+Gimli,Thranduil,3
+Gimli,Sauron,18
+Glorfindel,Gwaihir,2
+Glorfindel,Hurin,2
+Glorfindel,Legolas,3
+Glorfindel,Radagast,2
+Glorfindel,Thranduil,2
+Gollum,Gwaihir,2
+Gollum,Hurin,1
+Gollum,Legolas,4
+Gollum,Radagast,2
+Gollum,Thranduil,2
+Gwaihir,Hurin,1
+Gwaihir,Legolas,4
+Gwaihir,Radagast,2
+Gwaihir,Thranduil,2
+Gwaihir,Sauron,4
+Hurin,Legolas,3
+Hurin,Radagast,1
+Hurin,Thranduil,1
+Hurin,Sauron,2
+Legolas,Radagast,2
+Legolas,Thranduil,3
+Legolas,Sauron,17
+Radagast,Thranduil,2
+Radagast,Sauron,2
+Saruman,Thranduil,3
+Thranduil,Sauron,3
+Elladan and Elrohir,Sauron,2
+Aragorn,#N/A,1
+Frodo,#N/A,1
+Bilbo,#N/A,1
+Boromir,#N/A,1
+#N/A,Sauron,1
+Aragorn,Watcher in the Water,1
+Frodo,Watcher in the Water,1
+Bilbo,Watcher in the Water,1
+Boromir,Watcher in the Water,1
+Dain,Watcher in the Water,1
+Sam,Watcher in the Water,1
+Gandalf,Watcher in the Water,1
+Gimli,Watcher in the Water,1
+Legolas,Watcher in the Water,1
+Ted Sandyman,Watcher in the Water,1
+Aragorn,Haldir,4
+Aragorn,Orophin,1
+Aragorn,Rumil,2
+Arwen,Haldir,2
+Arwen,Orophin,1
+Arwen,Rumil,2
+Frodo,Haldir,5
+Frodo,Orophin,1
+Frodo,Rumil,2
+Bilbo,Haldir,4
+Bilbo,Orophin,1
+Bilbo,Rumil,2
+Boromir,Haldir,4
+Boromir,Orophin,1
+Boromir,Rumil,2
+Dain,Haldir,1
+Dain,Orophin,1
+Dain,Rumil,2
+Elrond,Haldir,3
+Elrond,Orophin,1
+Elrond,Rumil,2
+Sam,Haldir,5
+Sam,Orophin,1
+Sam,Rumil,2
+Gandalf,Haldir,4
+Gandalf,Orophin,1
+Gandalf,Rumil,2
+Gimli,Haldir,4
+Gimli,Orophin,1
+Gimli,Rumil,2
+Haldir,Orophin,1
+Haldir,Rumil,2
+Haldir,Sauron,4
+Legolas,Orophin,1
+Legolas,Rumil,2
+Orophin,Rumil,2
+Orophin,Sauron,1
+Rumil,Rumil,1
+Rumil,Sauron,2
+Beorn,Sauron,3
+Aragorn,Arod,6
+Aragorn,Eomer,16
+Aragorn,Hasufel,6
+Arod,Eomer,4
+Arod,Hasufel,5
+Arod,Sauron,3
+Frodo,Eomer,8
+Frodo,Hasufel,3
+Beorn,Eomer,1
+Beorn,Hasufel,1
+Boromir,Eomer,6
+Boromir,Hasufel,4
+Celeborn,Eomer,3
+Celeborn,Hasufel,1
+Denethor,Eomer,10
+Denethor,Hasufel,2
+Elrond,Eomer,11
+Elrond,Hasufel,3
+Eomer,Hasufel,4
+Eomer,Sauron,11
+Galadriel,Hasufel,5
+Sam,Hasufel,3
+Gandalf,Hasufel,6
+Gimli,Hasufel,6
+Hasufel,Sauron,3
+Frodo,Grishnakh,2
+Frodo,Lugdush,1
+Frodo,Mauhur,1
+Frodo,Snaga,2
+Frodo,Ugluk,3
+Bilbo,Grishnakh,1
+Bilbo,Lugdush,1
+Bilbo,Mauhur,1
+Bilbo,Snaga,2
+Bilbo,Ugluk,2
+Boromir,Grishnakh,2
+Boromir,Lugdush,1
+Boromir,Mauhur,1
+Boromir,Snaga,1
+Boromir,Ugluk,2
+Elrond,Grishnakh,2
+Elrond,Lugdush,1
+Elrond,Mauhur,1
+Elrond,Snaga,1
+Elrond,Ugluk,3
+Eomer,Grishnakh,1
+Eomer,Lugdush,1
+Eomer,Mauhur,1
+Eomer,Snaga,1
+Eomer,Ugluk,1
+Gandalf,Grishnakh,2
+Gandalf,Lugdush,1
+Gandalf,Mauhur,1
+Gandalf,Snaga,1
+Gandalf,Ugluk,3
+Gollum,Grishnakh,1
+Gollum,Lugdush,1
+Gollum,Mauhur,1
+Gollum,Snaga,2
+Gollum,Ugluk,1
+Grishnakh,Lugdush,1
+Grishnakh,Mauhur,1
+Grishnakh,Snaga,1
+Grishnakh,Ugluk,2
+Lugdush,Mauhur,1
+Lugdush,Snaga,1
+Lugdush,Ugluk,1
+Maggot,Mauhur,1
+Maggot,Snaga,1
+Maggot,Ugluk,1
+Mauhur,Snaga,1
+Mauhur,Ugluk,1
+Saruman,Snaga,1
+Saruman,Ugluk,3
+Snaga,Ugluk,1
+Frodo,Bregalad,1
+Frodo,Fimbrethil,1
+Frodo,Finglas,1
+Frodo,Fladrif,1
+Frodo,Treebeard,5
+Bilbo,Bregalad,1
+Bilbo,Fimbrethil,1
+Bilbo,Finglas,1
+Bilbo,Fladrif,1
+Bilbo,Treebeard,2
+Tom Bombadil,Bregalad,1
+Tom Bombadil,Fimbrethil,1
+Tom Bombadil,Finglas,1
+Tom Bombadil,Fladrif,1
+Tom Bombadil,Treebeard,1
+Tom Bombadil,Ugluk,1
+Meriadoc Brandybuck,Bregalad,1
+Meriadoc Brandybuck,Fimbrethil,1
+Meriadoc Brandybuck,Finglas,1
+Meriadoc Brandybuck,Fladrif,1
+Meriadoc Brandybuck,Treebeard,1
+Meriadoc Brandybuck,Ugluk,1
+Meriadoc Brandybuck,Sauron,1
+Bregalad,Fimbrethil,1
+Bregalad,Finglas,1
+Bregalad,Fladrif,1
+Bregalad,Treebeard,1
+Bregalad,Ugluk,1
+Bregalad,Sauron,1
+Celeborn,Fimbrethil,1
+Celeborn,Finglas,1
+Celeborn,Fladrif,1
+Celeborn,Treebeard,2
+Celeborn,Ugluk,1
+Elrond,Fimbrethil,1
+Elrond,Finglas,1
+Elrond,Fladrif,1
+Elrond,Treebeard,4
+Fimbrethil,Finglas,1
+Fimbrethil,Fladrif,1
+Fimbrethil,Treebeard,1
+Fimbrethil,Ugluk,1
+Fimbrethil,Sauron,1
+Finglas,Fladrif,1
+Finglas,Treebeard,1
+Finglas,Ugluk,1
+Finglas,Sauron,1
+Fladrif,Treebeard,1
+Fladrif,Ugluk,1
+Fladrif,Sauron,1
+Galadriel,Treebeard,5
+Galadriel,Ugluk,2
+Sam,Treebeard,5
+Sam,Ugluk,2
+Gandalf,Treebeard,8
+Nob,Treebeard,1
+Nob,Ugluk,1
+Saruman,Treebeard,8
+Peregrin Took,Treebeard,3
+Peregrin Took,Ugluk,1
+Treebeard,Ugluk,2
+Treebeard,Sauron,5
+Ugluk,Sauron,1
+Aragorn,Eowyn,8
+Aragorn,Firefoot,1
+Aragorn,Hama,4
+Aragorn,Theodred,3
+Arod,Eowyn,3
+Arod,Firefoot,1
+Arod,Hama,1
+Arod,Theodred,1
+Boromir,Eowyn,2
+Boromir,Firefoot,1
+Boromir,Hama,1
+Boromir,Theodred,1
+Denethor,Eowyn,4
+Denethor,Firefoot,1
+Denethor,Hama,1
+Denethor,Theodred,1
+Eomer,Eowyn,8
+Eomer,Firefoot,1
+Eomer,Hama,4
+Eomer,Theodred,3
+Eowyn,Firefoot,1
+Eowyn,Hama,1
+Eowyn,Theodred,1
+Firefoot,Hama,1
+Firefoot,Theodred,1
+Galadriel,Hama,2
+Galadriel,Theodred,1
+Gandalf,Hama,4
+Gandalf,Theodred,3
+Gimli,Hama,4
+Gimli,Theodred,3
+Hasufel,Hama,2
+Hasufel,Theodred,2
+Hama,Theodred,3
+Legolas,Theodred,3
+Saruman,Theodred,3
+Theoden,Theodred,3
+Aragorn,Ceorl,1
+Aragorn,Erkenbrand,2
+Aragorn,Gamling,2
+Ceorl,Erkenbrand,1
+Ceorl,Gamling,1
+Ceorl,Theodred,1
+Eomer,Erkenbrand,2
+Eomer,Gamling,2
+Erkenbrand,Gamling,2
+Erkenbrand,Theodred,1
+Gamling,Theodred,1
+Aragorn,Elfhelm,4
+Aragorn,Grimbold,2
+Elfhelm,Grimbold,3
+Elfhelm,Sauron,3
+Eomer,Grimbold,3
+Erkenbrand,Grimbold,1
+Erkenbrand,Sauron,1
+Galadriel,Grimbold,1
+Gamling,Grimbold,1
+Gamling,Sauron,1
+Gandalf,Grimbold,2
+Gimli,Grimbold,2
+Grimbold,Sauron,1
+Hama,Sauron,2
+Aragorn,Beechbone,1
+Arod,Beechbone,1
+Frodo,Beechbone,1
+Theodred,Sauron,1
+Aragorn,Damrod,2
+Aragorn,Mablung,3
+Frodo,Damrod,2
+Frodo,Mablung,3
+Boromir,Damrod,2
+Boromir,Mablung,2
+Damrod,Mablung,2
+Damrod,Sauron,1
+Denethor,Mablung,3
+Elrond,Mablung,3
+Faramir,Mablung,3
+Sam,Mablung,3
+Gollum,Mablung,2
+Mablung,Sauron,2
+Frodo,Shelob,4
+Faramir,Shelob,4
+Galadriel,Shelob,3
+Sam,Shelob,4
+Gollum,Shelob,4
+Shelob,Sauron,3
+Frodo,Gorbag,3
+Frodo,Shagrat,3
+Frodo,Ufthak,1
+Bilbo,Gorbag,2
+Bilbo,Shagrat,2
+Bilbo,Ufthak,1
+Elrond,Gorbag,1
+Elrond,Shagrat,1
+Elrond,Ufthak,1
+Faramir,Gorbag,3
+Faramir,Shagrat,3
+Faramir,Ufthak,1
+Galadriel,Gorbag,2
+Galadriel,Shagrat,2
+Galadriel,Ufthak,1
+Sam,Gorbag,3
+Sam,Shagrat,3
+Sam,Ufthak,1
+Gandalf,Gorbag,1
+Gandalf,Shagrat,1
+Gandalf,Ufthak,1
+Gollum,Gorbag,3
+Gollum,Shagrat,3
+Gollum,Ufthak,1
+Gorbag,Shagrat,3
+Gorbag,Ufthak,1
+Gorbag,Sauron,2
+Shagrat,Ufthak,1
+Shagrat,Sauron,2
+Shelob,Ufthak,1
+Ufthak,Sauron,1
+Aragorn,Baranor,1
+Aragorn,Beregond,5
+Aragorn,Bergil,3
+Aragorn,Derufin,2
+Aragorn,Dervorin,1
+Aragorn,Duilin,2
+Aragorn,Duinhir,1
+Aragorn,Forlong,2
+Aragorn,Golasgil,1
+Aragorn,Hirluin,2
+Aragorn,Imrahil,9
+Aragorn,Ingold,2
+Aragorn,Targon,1
+Frodo,Baranor,1
+Frodo,Beregond,4
+Frodo,Bergil,2
+Frodo,Derufin,1
+Frodo,Dervorin,1
+Frodo,Duilin,1
+Frodo,Duinhir,1
+Frodo,Forlong,1
+Frodo,Golasgil,1
+Frodo,Hirluin,1
+Frodo,Imrahil,6
+Frodo,Ingold,2
+Frodo,Targon,1
+Baranor,Beregond,1
+Baranor,Bergil,1
+Baranor,Derufin,1
+Baranor,Dervorin,1
+Baranor,Duilin,1
+Baranor,Duinhir,1
+Baranor,Forlong,1
+Baranor,Golasgil,1
+Baranor,Hirluin,1
+Baranor,Imrahil,1
+Baranor,Ingold,1
+Baranor,Targon,1
+Beregond,Bergil,3
+Beregond,Derufin,1
+Beregond,Dervorin,1
+Beregond,Duilin,1
+Beregond,Duinhir,1
+Beregond,Forlong,1
+Beregond,Golasgil,1
+Beregond,Hirluin,1
+Beregond,Imrahil,6
+Beregond,Ingold,2
+Beregond,Targon,1
+Bergil,Derufin,1
+Bergil,Dervorin,1
+Bergil,Duilin,1
+Bergil,Duinhir,1
+Bergil,Forlong,1
+Bergil,Golasgil,1
+Bergil,Hirluin,1
+Bergil,Imrahil,3
+Bergil,Ingold,1
+Bergil,Targon,1
+Boromir,Derufin,1
+Boromir,Dervorin,1
+Boromir,Duilin,1
+Boromir,Duinhir,1
+Boromir,Forlong,1
+Boromir,Golasgil,1
+Boromir,Hirluin,1
+Boromir,Imrahil,3
+Boromir,Ingold,2
+Boromir,Targon,1
+Denethor,Derufin,1
+Denethor,Dervorin,1
+Denethor,Duilin,1
+Denethor,Duinhir,1
+Denethor,Forlong,1
+Denethor,Golasgil,1
+Denethor,Hirluin,1
+Denethor,Imrahil,6
+Denethor,Ingold,2
+Denethor,Targon,1
+Derufin,Dervorin,1
+Derufin,Duilin,2
+Derufin,Duinhir,1
+Derufin,Forlong,2
+Derufin,Golasgil,1
+Derufin,Hirluin,2
+Derufin,Imrahil,2
+Derufin,Ingold,1
+Derufin,Targon,1
+Dervorin,Duilin,1
+Dervorin,Duinhir,1
+Dervorin,Forlong,1
+Dervorin,Golasgil,1
+Dervorin,Hirluin,1
+Dervorin,Imrahil,1
+Dervorin,Ingold,1
+Dervorin,Targon,1
+Duilin,Duinhir,1
+Duilin,Forlong,2
+Duilin,Golasgil,1
+Duilin,Hirluin,2
+Duilin,Imrahil,2
+Duilin,Ingold,1
+Duilin,Targon,1
+Duinhir,Forlong,1
+Duinhir,Golasgil,1
+Duinhir,Hirluin,1
+Duinhir,Imrahil,1
+Duinhir,Ingold,1
+Duinhir,Targon,1
+Faramir,Forlong,1
+Faramir,Golasgil,1
+Faramir,Hirluin,1
+Faramir,Imrahil,7
+Faramir,Ingold,2
+Faramir,Targon,1
+Forlong,Golasgil,1
+Forlong,Hirluin,2
+Forlong,Imrahil,2
+Forlong,Ingold,1
+Forlong,Targon,1
+Gandalf,Golasgil,1
+Gandalf,Hirluin,2
+Gandalf,Imrahil,10
+Gandalf,Ingold,2
+Gandalf,Targon,1
+Golasgil,Hirluin,1
+Golasgil,Imrahil,1
+Golasgil,Ingold,1
+Golasgil,Targon,1
+Hirluin,Imrahil,2
+Hirluin,Ingold,1
+Hirluin,Targon,1
+Imrahil,Ingold,2
+Imrahil,Targon,1
+Ingold,Targon,1
+Saruman,Targon,1
+Aragorn,Halbarad,2
+Aragorn,The King of the Dead,1
+Arod,Halbarad,1
+Arod,The King of the Dead,1
+Elladan and Elrohir,Halbarad,2
+Elladan and Elrohir,The King of the Dead,1
+Elrond,Halbarad,2
+Elrond,The King of the Dead,1
+Eomer,Halbarad,2
+Eomer,The King of the Dead,1
+Eowyn,Halbarad,2
+Eowyn,The King of the Dead,1
+Eowyn,Sauron,3
+Galadriel,Halbarad,1
+Galadriel,The King of the Dead,1
+Gandalf,Halbarad,2
+Gandalf,The King of the Dead,1
+Gimli,Halbarad,2
+Gimli,The King of the Dead,1
+Halbarad,The King of the Dead,1
+Halbarad,Sauron,1
+Hasufel,The King of the Dead,1
+Legolas,The King of the Dead,1
+Saruman,The King of the Dead,1
+The King of the Dead,Sauron,1
+Aragorn,Dunhere,2
+Aragorn,Windfola,2
+Frodo,Dunhere,1
+Frodo,Windfola,1
+Boromir,Dunhere,1
+Boromir,Windfola,1
+Denethor,Dunhere,1
+Denethor,Windfola,1
+Dunhere,Windfola,2
+Eomer,Windfola,2
+Eowyn,Windfola,2
+Sam,Windfola,1
+Gandalf,Windfola,2
+Gimli,Windfola,2
+Legolas,Windfola,2
+Saruman,Windfola,1
+Theoden,Windfola,2
+Beregond,Sauron,4
+Imrahil,Sauron,6
+Ingold,Sauron,1
+Denethor,Ghan-buri-Ghan,1
+Denethor,Widfara,1
+Elfhelm,Ghan-buri-Ghan,1
+Elfhelm,Widfara,1
+Eomer,Ghan-buri-Ghan,2
+Eomer,Widfara,1
+Ghan-buri-Ghan,Widfara,1
+Grimbold,Widfara,1
+Theoden,Widfara,1
+Aragorn,Fastred,1
+Aragorn,Gothmog,1
+Aragorn,Harding,1
+Aragorn,Herefara,1
+Aragorn,Herubrand,1
+Arwen,Fastred,1
+Arwen,Gothmog,1
+Arwen,Harding,1
+Arwen,Herefara,1
+Arwen,Herubrand,1
+Arwen,Windfola,1
+Derufin,Fastred,1
+Derufin,Gothmog,1
+Derufin,Harding,1
+Derufin,Herefara,1
+Derufin,Herubrand,1
+Derufin,Windfola,1
+Duilin,Fastred,1
+Duilin,Gothmog,1
+Duilin,Harding,1
+Duilin,Herefara,1
+Duilin,Herubrand,1
+Duilin,Windfola,1
+Dunhere,Fastred,1
+Dunhere,Gothmog,1
+Dunhere,Harding,1
+Dunhere,Herefara,1
+Dunhere,Herubrand,1
+Elfhelm,Fastred,1
+Elfhelm,Gothmog,1
+Elfhelm,Harding,1
+Elfhelm,Herefara,1
+Elfhelm,Herubrand,1
+Elfhelm,Windfola,1
+Elladan and Elrohir,Fastred,1
+Elladan and Elrohir,Gothmog,1
+Elladan and Elrohir,Harding,1
+Elladan and Elrohir,Herefara,1
+Elladan and Elrohir,Herubrand,1
+Elladan and Elrohir,Windfola,1
+Elrond,Fastred,1
+Elrond,Gothmog,1
+Elrond,Harding,1
+Elrond,Herefara,1
+Elrond,Herubrand,1
+Elrond,Windfola,1
+Eomer,Fastred,1
+Eomer,Gothmog,1
+Eomer,Harding,1
+Eomer,Herefara,1
+Eomer,Herubrand,1
+Eowyn,Fastred,1
+Eowyn,Gothmog,1
+Eowyn,Harding,1
+Eowyn,Herefara,1
+Eowyn,Herubrand,1
+Fastred,Gothmog,1
+Fastred,Harding,1
+Fastred,Herefara,1
+Fastred,Herubrand,1
+Fastred,Windfola,1
+Forlong,Gothmog,1
+Forlong,Harding,1
+Forlong,Herefara,1
+Forlong,Herubrand,1
+Forlong,Windfola,1
+Gandalf,Gothmog,1
+Gandalf,Harding,1
+Gandalf,Herefara,1
+Gandalf,Herubrand,1
+Gimli,Gothmog,1
+Gimli,Harding,1
+Gimli,Herefara,1
+Gimli,Herubrand,1
+Gothmog,Harding,1
+Gothmog,Herefara,1
+Gothmog,Herubrand,1
+Gothmog,Windfola,1
+Grimbold,Harding,1
+Grimbold,Herefara,1
+Grimbold,Herubrand,1
+Grimbold,Windfola,1
+Halbarad,Harding,1
+Halbarad,Herefara,1
+Halbarad,Herubrand,1
+Halbarad,Windfola,1
+Harding,Herefara,1
+Harding,Herubrand,1
+Harding,Windfola,1
+Herefara,Herubrand,1
+Herefara,Windfola,1
+Herubrand,Windfola,1
+Hirluin,Windfola,1
+Hurin,Windfola,1
+Imrahil,Windfola,1
+Aragorn,Ioreth,2
+Beregond,Ioreth,2
+Bergil,Ioreth,1
+Denethor,Ioreth,1
+Elrond,Ioreth,2
+Eomer,Ioreth,2
+Eowyn,Ioreth,2
+Faramir,Ioreth,2
+Galadriel,Ioreth,2
+Gandalf,Ioreth,2
+Imrahil,Ioreth,2
+Angbor,Sauron,1
+Aragorn,Mouth of Sauron,1
+Frodo,Mouth of Sauron,1
+Beregond,Mouth of Sauron,1
+Bergil,Mouth of Sauron,1
+Bergil,Sauron,1
+Bilbo,Mouth of Sauron,1
+Denethor,Mouth of Sauron,1
+Elrond,Mouth of Sauron,1
+Eomer,Mouth of Sauron,1
+Faramir,Mouth of Sauron,1
+Sam,Mouth of Sauron,1
+Gandalf,Mouth of Sauron,1
+Gimli,Mouth of Sauron,1
+Imrahil,Mouth of Sauron,1
+Legolas,Mouth of Sauron,1
+Mablung,Mouth of Sauron,1
+Mouth of Sauron,Sauron,1
+Aragorn,Lagduf,1
+Aragorn,Muzgash,1
+Aragorn,Radbug,1
+Frodo,Lagduf,1
+Frodo,Muzgash,1
+Frodo,Radbug,1
+Bilbo,Lagduf,1
+Bilbo,Muzgash,1
+Bilbo,Radbug,1
+Denethor,Lagduf,1
+Denethor,Muzgash,1
+Denethor,Radbug,1
+Faramir,Lagduf,1
+Faramir,Muzgash,1
+Faramir,Radbug,1
+Galadriel,Lagduf,1
+Galadriel,Muzgash,1
+Galadriel,Radbug,1
+Sam,Lagduf,1
+Sam,Muzgash,1
+Sam,Radbug,1
+Gollum,Lagduf,1
+Gollum,Muzgash,1
+Gollum,Radbug,1
+Gorbag,Lagduf,1
+Gorbag,Muzgash,1
+Gorbag,Radbug,1
+Lagduf,Muzgash,1
+Lagduf,Radbug,1
+Muzgash,Radbug,1
+Nob,Radbug,1
+Frodo,Rosie Cotton,1
+Aragorn,Landroval,1
+Aragorn,Meneldor,1
+Frodo,Landroval,1
+Frodo,Meneldor,1
+Bilbo,Landroval,1
+Bilbo,Meneldor,1
+Elrond,Landroval,1
+Elrond,Meneldor,1
+Eomer,Landroval,1
+Eomer,Meneldor,1
+Galadriel,Landroval,1
+Galadriel,Meneldor,1
+Sam,Landroval,1
+Sam,Meneldor,1
+Gandalf,Landroval,1
+Gandalf,Meneldor,1
+Gimli,Landroval,1
+Gimli,Meneldor,1
+Gwaihir,Landroval,1
+Gwaihir,Meneldor,1
+Imrahil,Landroval,1
+Imrahil,Meneldor,1
+Landroval,Meneldor,1
+Legolas,Meneldor,1
+Arwen,Ioreth,1
+Frodo,Ioreth,1
+Bilbo,Ioreth,1
+Celeborn,Ioreth,1
+Elfhelm,Ioreth,1
+Erestor,Ioreth,1
+Gimli,Ioreth,1
+Glorfindel,Ioreth,1
+Hurin,Ioreth,1
+Frodo,Willie Banks,1
+Frodo,Mat Heathertoes,1
+Willie Banks,Mat Heathertoes,1
+Bob,Mat Heathertoes,1
+Bill Ferny,Mat Heathertoes,1
+Sam,Mat Heathertoes,1
+Gandalf,Mat Heathertoes,1
+Frodo,Hob Hayward,1
+Frodo,Robin Smallburrow,1
+Bilbo,Hob Hayward,1
+Bilbo,Robin Smallburrow,1
+Bill Ferny,Hob Hayward,1
+Bill Ferny,Robin Smallburrow,1
+Bill Ferny,Will Whitfoot,1
+Sam,Hob Hayward,1
+Sam,Robin Smallburrow,1
+Gandalf,Hob Hayward,1
+Gandalf,Robin Smallburrow,1
+Hob Hayward,Robin Smallburrow,1
+Hob Hayward,Will Whitfoot,1
+Ted Sandyman,Robin Smallburrow,1
+Ted Sandyman,Will Whitfoot,1
+Saruman,Robin Smallburrow,1
+Saruman,Will Whitfoot,1
+Robin Smallburrow,Will Whitfoot,1
+Frodo,Widow Rumble,1
+Bilbo,Widow Rumble,1
+Fredegar Bolger,Will Whitfoot,1
+Fredegar Bolger,Widow Rumble,1
+Elrond,Will Whitfoot,1
+Elrond,Widow Rumble,1
+Galadriel,Will Whitfoot,1
+Galadriel,Widow Rumble,1
+Sam,Widow Rumble,1
+Gandalf,Widow Rumble,1
+Will Whitfoot,Widow Rumble,1

@@ -1,0 +1,126 @@
+,Index,Character,Race,Gender,Total_words,Avg_sent
+0,n1,angbor,Man,Male,0.0,0.0
+1,n2,aragorn,Man,Male,771.0,0.0120784731059024
+2,n3,arod,Animal,Male,0.0,0.0
+3,n4,arwen,Elf,Female,208.0,0.014883209000856
+4,n5,asfaloth,Animal,Male,0.0,0.0
+5,n6,baranor,Man,Male,0.0,0.0
+6,n7,barliman butterbur,Man,Male,0.0,0.0
+7,n8,beorn,Man,Male,0.0,0.0
+8,n9,beregond,Man,Male,0.0,0.0
+9,n10,bergil,Man,Male,0.0,0.0
+10,n11,bilbo,Hobbit,Male,572.0,0.0606208157514127
+11,n12,bill ferny,Man,Male,0.0,0.0
+12,n13,bob,Hobbit,Male,0.0,0.0
+13,n14,boromir,Man,Male,224.0,0.040964480165932
+14,n15,bregalad,Ent,Male,0.0,0.0
+15,n16,celeborn,Elf,Male,0.0,0.0
+16,n17,ceorl,Man,Male,0.0,0.0
+17,n18,cirdan,Elf,Male,0.0,0.0
+18,n19,dain,Dwarf,Male,0.0,0.0
+19,n20,damrod,Man,Male,0.0,0.0
+20,n21,denethor,Man,Male,0.0,0.0
+21,n22,derufin,Man,Male,0.0,0.0
+22,n23,dervorin,Man,Male,0.0,0.0
+23,n24,duilin,Man,Male,0.0,0.0
+24,n25,duinhir,Man,Male,0.0,0.0
+25,n26,dunhere,Man,Male,0.0,0.0
+26,n27,durinas bane,Balrog,Male,0.0,0.0
+27,n28,elfhelm,Man,Male,0.0,0.0
+28,n29,elladan and elrohir,Elf,Male,0.0,0.0
+29,n30,elrond,Elf,Male,322.0,-0.0031711525189786
+30,n31,eomer,Man,Male,0.0,0.0
+31,n32,eowyn,Man,Female,0.0,0.0
+32,n33,erestor,Elf,Male,0.0,0.0
+33,n34,erkenbrand,Man,Male,0.0,0.0
+34,n35,everard took,Hobbit,Male,0.0,0.0
+35,n36,faramir,Man,Male,0.0,0.0
+36,n37,fastred,Man,Male,0.0,0.0
+37,n38,fimbrethil,Ent,Female,0.0,0.0
+38,n39,finglas,Ent,Male,0.0,0.0
+39,n40,firefoot,Animal,Male,0.0,0.0
+40,n41,fladrif,Ent,Male,0.0,0.0
+41,n42,folco boffin,Hobbit,Male,0.0,0.0
+42,n43,forlong,Man,Male,0.0,0.0
+43,n44,fredegar bolger,Hobbit,Male,0.0,0.0
+44,n45,frodo,Hobbit,Male,867.0,0.0209249264426025
+45,n46,galadriel,Elf,Female,270.0,0.0016203703703703
+46,n47,galdor,Man,Male,0.0,0.0
+47,n48,gamling,Man,Male,0.0,0.0
+48,n49,gandalf,Ainur,Male,1706.0,0.0177147867162333
+49,n50,ghan-buri-ghan,Man,Male,0.0,0.0
+50,n51,gimli,Dwarf,Male,545.0,0.0110427366243597
+51,n52,glorfindel,Elf,Male,0.0,0.0
+52,n53,golasgil,Man,Male,0.0,0.0
+53,n54,goldberry,Elf,Female,0.0,0.0
+54,n55,gollum,Hobbit,Male,746.0,0.0385543521768803
+55,n56,gorbag,Black Urk,Male,0.0,0.0
+56,n57,gothmog,Ainur,Male,0.0,0.0
+57,n58,grimbeorn,Man,Male,0.0,0.0
+58,n59,grimbold,Man,Male,0.0,0.0
+59,n60,grishnakh,Orc,Male,0.0,0.0
+60,n61,gwaihir,Ainur,Male,0.0,0.0
+61,n62,halbarad,Man,Male,0.0,0.0
+62,n63,haldir,Man,Male,28.0,0.0190548780487804
+63,n64,hama,Man,Male,0.0,0.0
+64,n65,harding,Hobbit,Male,0.0,0.0
+65,n66,hasufel,Animal,Male,0.0,0.0
+66,n67,herefara,Man,Male,0.0,0.0
+67,n68,herubrand,Man,Male,0.0,0.0
+68,n69,hirluin,Man,Male,0.0,0.0
+69,n70,hob hayward,Hobbit,Male,0.0,0.0
+70,n71,hurin,Man,Male,0.0,0.0
+71,n72,imrahil,Man,Male,0.0,0.0
+72,n73,ingold,Man,Male,0.0,0.0
+73,n74,lagduf,Orc,Male,0.0,0.0
+74,n75,landroval,Ainur,Male,0.0,0.0
+75,n76,legolas,Elf,Male,249.0,-0.0086617924635328
+76,n77,lugdush,Black Urk,Male,0.0,0.0
+77,n78,mablung,Elf,Male,0.0,0.0
+78,n79,maggot,Hobbit,Male,0.0,0.0
+79,n80,mauhur,Black Urk,Male,0.0,0.0
+80,n81,melilot brandybuck,Hobbit,Female,0.0,0.0
+81,n82,meriadoc brandybuck,Hobbit,Male,0.0,0.0
+82,n83,mouth of sauron,Man,Male,0.0,0.0
+83,n84,muzgash,Orc,Male,0.0,0.0
+84,n85,noakes,Hobbit,Male,6.0,0.0130208333333333
+85,n86,nob,Hobbit,Male,0.0,0.0
+86,n87,odo proudfoot,Hobbit,Male,0.0,0.0
+87,n88,orophin,Elf,Male,0.0,0.0
+88,n89,peregrin took,Hobbit,Male,0.0,0.0
+89,n90,radagast,Ainur,Male,0.0,0.0
+90,n91,robin smallburrow,Hobbit,Male,0.0,0.0
+91,n92,rumil,Elf,Male,0.0,0.0
+92,n93,sam,Hobbit,Male,1112.0,0.010942777732701
+93,n94,sancho proudfoot,Hobbit,Male,0.0,0.0
+94,n95,saruman,Ainur,Male,329.0,-0.0102164166553864
+95,n96,shagrat,Black Urk,Male,0.0,0.0
+96,n97,shelob,Animal,Female,0.0,0.0
+97,n98,snaga,Orc,Male,0.0,0.0
+98,n99,ted sandyman,Man,Male,0.0,0.0
+99,n100,the king of the dead,Man,Male,0.0,0.0
+100,n101,theoden,Man,Male,0.0,0.0
+101,n102,theodred,Man,Male,0.0,0.0
+102,n103,thranduil,Elf,Male,0.0,0.0
+103,n104,tom bombadil,Hobbit,Male,0.0,0.0
+104,n105,treebeard,Ent,Male,0.0,0.0
+105,n106,ufthak,Orc,Male,0.0,0.0
+106,n107,ugluk,Black Urk,Male,0.0,0.0
+107,n108,will whitfoot,Hobbit,Male,0.0,0.0
+108,n109,willie banks,Hobbit,Male,0.0,0.0
+109,n110,sauron,Ainur,Male,12.0,0.0
+110,n111,daddy twofoot,Hobbit,Male,0.0,0.0
+111,n112,gildor inglorion,Elf,Male,0.0,0.0
+112,n113,willow,Ent,Male,0.0,0.0
+113,n114,lindir,Elf,Male,0.0,0.0
+114,n115,watcher in the water,Elf,Male,0.0,0.0
+115,n116,beechbone,Ent,Male,0.0,0.0
+116,n117,targon,Man,Male,0.0,0.0
+117,n118,windfola,Animal,Male,0.0,0.0
+118,n119,widfara,Man,Male,0.0,0.0
+119,n120,ioreth,Man,Female,0.0,0.0
+120,n121,radbug,Orc,Male,0.0,0.0
+121,n122,rosie cotton,Hobbit,Female,0.0,0.0
+122,n123,meneldor,Ainur,Male,0.0,0.0
+123,n124,mat heathertoes,Man,Male,0.0,0.0
+124,n125,widow rumble,Hobbit,Female,0.0,0.0
